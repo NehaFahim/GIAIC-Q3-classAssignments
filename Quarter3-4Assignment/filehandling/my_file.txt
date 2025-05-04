@@ -1,0 +1,3 @@
+Hello Neha!
+This is your file handling assignment.
+New line added using append mode.
